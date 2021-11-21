@@ -1,0 +1,23 @@
+body{
+    background: rgb(167,163,163);
+background: linear-gradient(90deg, rgba(167,163,163,1) 0%, rgba(227,227,227,1) 50%, rgba(46,65,77,1) 100%);
+}
+
+table{
+ border-collapse: collapse;
+ border: 2px solid black;
+
+}
+
+
+
+td:hover{
+    background-color:white;
+  background: #6d6d6d;
+  -webkit-transition: all 0.3s ease;;
+  -moz-transition: all 0.3s ease;;
+  -o-transition: all 0.3s ease;;
+  transition: all 0.3s ease;
+    
+    
+}
